@@ -1,0 +1,77 @@
+[33mcommit 8c7e9d3be4cbe26b30680e8d8a0a7df6de26f20e[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Thu Sep 12 08:04:48 2024 +0200
+
+    test
+
+[33mcommit 73d5ea1703dbe351339f7dc0f4278066fdd2fbba[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 13:09:35 2024 +0200
+
+    update uuid to v10
+
+[33mcommit 18d96fce34c1e50000c207ad5f5def5d1804e9c3[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 13:08:24 2024 +0200
+
+    add more dependencies
+
+[33mcommit d0fa9088950db0d56a9ca983f0671f0996618fcf[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 13:06:52 2024 +0200
+
+    add more dependencies
+
+[33mcommit 04fa5a07c9d56aaafef548a4198a40dedc55654e[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 12:57:51 2024 +0200
+
+    add npm dependencies
+
+[33mcommit b154685837fd440b6c1a20ef462d151d4fa4bcc2[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 12:17:31 2024 +0200
+
+    Lib3
+
+[33mcommit caca95ba2e0d61688160a01c6bf99699169b1b69[m[33m ([m[1;31morigin/test1[m[33m)[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 09:42:55 2024 +0200
+
+    branch test1
+
+[33mcommit 5af50c72030370420b29706c8e485b6871ca15a5[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 09:28:31 2024 +0200
+
+    lib1 from repo1 main 2
+
+[33mcommit dc4f6d9bd78d86a46a46f33ff1c5d190bc20267c[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 09:01:48 2024 +0200
+
+    lib1 from repo1 main
+
+[33mcommit f8a0bf0f3a1c97f7d8360e0d3c830b22e19b0c2b[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 08:49:19 2024 +0200
+
+    lib2 from Branch1 2
+
+[33mcommit b57c684abcf29cd6070eae6aa8fed1f0233da902[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 08:43:42 2024 +0200
+
+    lib2 from Branch1
+
+[33mcommit 3fc0b37f299eb54de94d7407fca404702602fa7d[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 08:40:55 2024 +0200
+
+    Modify lib1 from repo1
+
+[33mcommit 499c0c316a98d2f15f00f55a32ff2858aa49f2c1[m
+Author: David Kouřil <kouril@haug.land>
+Date:   Wed Sep 11 08:35:52 2024 +0200
+
+    Lib1
